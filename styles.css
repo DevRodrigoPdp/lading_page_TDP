@@ -119,6 +119,34 @@
 }
 /*SECTION 4*/
 
+.section-4-banner{
+    background-color: #3882f6;
+    margin: 100px 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:200px;
+    border-radius: 20px;
+}
+.section-4-banner-text{
+    display: flex;
+    flex-direction: column;
+    font-family: 'roboto';
+    color: #e5e7eb;
+}
+.main-textbanner{
+    font-family: 'roboto';
+    color: #e5e7eb;
+    font-weight: 900;
+    font-size: 24px;
+}
+.main-subtext-banner{
+    color: #f9faf8b5;
+}
+.section-4-banner button{
+    border: solid white 2px;
+}
+
 /*FOOTER*/
 .footer{
     text-align: center;
